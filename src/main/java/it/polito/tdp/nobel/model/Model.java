@@ -64,6 +64,7 @@ public class Model {
 		}
 
 	}
+	
 
 	// COMPLESSITA' 2^N
 	private void cerca2(Set<Esame> parziale, int L, int m) {
